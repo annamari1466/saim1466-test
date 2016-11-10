@@ -1,1 +1,2 @@
 repo1 a.txt
+repo1 valtoztat a.txt
