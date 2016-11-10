@@ -1,4 +1,3 @@
 repo1 b.txt
 repo2 valtoztat b.txt
-repo2 valtoztat b.txt
 repo3 branch1 valtoztat b.txt
